@@ -1,0 +1,82 @@
+{
+    "Hospedaje": [
+        {
+            "nombre": "Hostal Pakal King",
+            "direccion": "7A.PONIENTE Sur, Nandiume, 29960 Palenque, Chis.",
+            "telefono": "+52 938 168 8203",
+            "precio_habitacion_sencilla": "$260 mxn por noche",
+            "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipPT2rJUPvuR00nPJMIPHCzSbzRgjczH-_X94Td-=w408-h278-k-no",
+            "reseña": "Hostal muy recomendable. Perfecto calidad - precio. Está limpio, es muy seguro, tranquilo y céntrico. La gente que trabaja es muy atenta, amable y servicial. Hemos repetido!!!",
+            "calificacion": "4.4",
+            "incluye": ["Wifi gratis", "Habitaciones familiares", "Sala de fumadores", "Adaptado para personas con movilidad reducida"],
+            "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/355298116.jpg?k=a1d1efb1ed59cd64e31d17ca8d5d0438b231ed6c77c401e028b8df141eedd257&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355300360.jpg?k=319323af9ae7d08296816e67ecd38acd42902ef4b26507b40ff1e9a9c7df6553&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355299016.jpg?k=de433b15b0cef4417e3a2943c657295483c61f62db36bb307f04b39494e8ef73&o=&hp=1"]
+        },
+        {
+            "nombre": "Villas del Carmen Hostal & Camping",
+            "direccion": "29960 Carretera, Palenque - Ocosingo, 29960 Palenque, Chis.",
+            "telefono": "+52 916 119 0326",
+            "precio_habitacion_sencilla": "$352 mxn por noche",
+            "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QjWMZMiUoy20G63Jww8fBK0ULhjiu9h_D8-ERQUPoJpgO5vb5Srm3c6Ukd7HPFaJU7Xhf8Jutgf93BrbxTKqRMSVT_J0MHfbKeQiWXjs7tmo0GJNOJSqN10fKfICY9m7dmW9zUDd601d7ZZH_nK2tekHrFVQmxTUvQWBDF3Z4PYn2pyVoc-Kjn=w534-h240-k-no",
+            "reseña": "Excelente lugar para estancia sencilla, limpio, económico, bonito, la alberca impecable y la atención de primera, todos súper atentos, el único pero es que no tuve agua caliente en la habitación, pero con el calor que hace, sale tibia",
+            "calificacion": "3.8",
+            "incluye": ["Wifi gratis", "estacionamiento gratuito", "Piscina"],
+            "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/446307143.jpg?k=e0cfec1086faba0a34af14eea579cd4d27fe40fd6648585a518d72708304e803&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446307104.jpg?k=7a4b131ff0a28c4af209ee6a35b9cefc0c098f2f28644ccd8b78e622e872a851&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446307128.jpg?k=7b6fe0979c5ab96b4b43386a2f69220c5ab3e37a06f9e27d94e72f0fca15c36a&o=&hp=1"]
+        },
+        {
+            "nombre": "Casa Janaab Palenque",
+            "direccion": "2a. Avenida Nte. Pte. 5, La Cañada, 29960 Palenque, Chis.",
+            "telefono": "+52 916 345 1827",
+            "precio_habitacion_sencilla": "$448 mxn por noche",
+            "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipO6GbnHRLoWFJmfAt_LgTnM8DO3VaAtLRmqRLna=w408-h271-k-no",
+            "reseña": "Les recomiendo mucho este lugar. Todo es completamente estupendo, cocina común para que puedas hacer uso de ella, utensilios, áreas comunes. Las habitaciones muy bonitas y el jacuzzi 10/10😍 Vengan y disfruten de esta experiencia. Habitaciones a excelentes precios!! No te quedes sin las ganas de venir, si visitas palenque esta es tu opción y además hay restaurantes cercas. A unos minutos de la estación de ADO",
+            "calificacion": "4.4",
+            "incluye": ["Wifi gratis", "Estacionamiento", "Aire acondicionado", "Servicio de lavanderia"],
+            "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/265306258.jpg?k=339d6f89f7645f9576722dabb2b4c2b132ebf13de704024df1d7fa85a54d9078&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265306648.jpg?k=2b6cf512835fc44a6c2ade454339d73517dbb6dca945bd0c05313072e68aced5&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/200132568.jpg?k=f9ebfca11f2fbcad9a1ba064d14d9ff25252dd0dda2a73c422be2ff878f1ca22&o=&hp=1"]
+        },
+        {
+            "nombre": "T&C HOSTAL CAMPING",
+            "direccion": "Lic. Eduardo Robledo Rincón, Sin Nombre, 29960 Palenque, Chis.",
+            "telefono": "+52 916 137 1084",
+            "precio_habitacion_sencilla": "$352 mxn por noche",
+            "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipP9aBNGNGahvkLqJOqNLPXJiwaUrUTC-4fIOhNB=w408-h306-k-no",
+            "reseña": "Un lugar muy bueno para acampar en familia tiene espacio de cocina y comedor, la alberca muy bonita y grande por la tarde noche se puede disfrutar mejor,  las áreas si están  descuidados si le dieran mantenimiento estuviera excelente por que el lugar es muy bonito, las habitaciones un poco incómodas las almoadas están muy duras. Pero el lugar es muy tranquilo muy relajante nadie te molesta en las mañanas se escucha las aves y sonidos de monos.",
+            "calificacion": "3.8",
+            "incluye": ["Wifi gratis", "Estacionamiento", "Piscina", "Apto para niños"],
+            "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/446307098.jpg?k=b615e7ced264e0e49335fa210ef073453d23b9fb1f17576d6fcbd274861622b6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446307128.jpg?k=7b6fe0979c5ab96b4b43386a2f69220c5ab3e37a06f9e27d94e72f0fca15c36a&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/446307097.jpg?k=203afccaeded5c268d3f79442897dcd4203e6dd783ebcbcbe00780bc5e5c196c&o=&hp=1"]
+        },
+        {
+            "nombre": "Hotel John David",
+            "direccion": "2a. Pte. Nte. s/n, Espéranza, 29960 Palenque, Chis.",
+            "telefono": "+52 916 345 1571",
+            "precio_habitacion_sencilla": "$527 mxn por noche",
+            "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipPRIEGPHIT9RSeJ_wv-awBuPDITGAzie0O-G2i4=w408-h408-k-no",
+            "reseña": "Un hotel agradable, limpio y buena ubicación. Costo por habitación con 2 camas matrimoniales $850,Tiene estacionamiento Dan café gratis, Solo que el acceso a las habitaciones es por escaleras. No tienen acceso para sillas de ruedas.",
+            "calificacion": "3.9",
+            "incluye": ["Wifi gratis", "Estacionamiento", "Aire acondicionado", "Apto para niños"],
+            "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/46482277.jpg?k=f2e4f6911e57cadabab68979fcbb7cb397b62e1a33128cfeb928fdbfb6e942c3&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46482263.jpg?k=ddad321ca15c425fc965373646738ebfd55a726834bda4ec57eef35fb59655a6&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/46482242.jpg?k=b40b9dcceaa4bce896c20ef522f2f29dc55157bf1bce4b668daff5422214ae79&o=&hp=1"]
+        },
+        {
+            "nombre": "Posada Kin",
+            "direccion": "C. Abasolo 1, Centro, 29960 Palenque, Chis.",
+            "telefono": "+52 916 138 2679",
+            "precio_habitacion_sencilla": "$576 mxn por noche",
+            "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0SkBEIkcSh8P7Qz1ljaIEOSwBHKiteDtmDbeQfkv4KA36dApnfY1YW3q1WPd3ZpNW4kgAFkUUR26UAqOQ42Gqpqsuud1caoyyoW0X8-v1SX5MM3BpNDxmgynSk2rEQKY5NbBJlkzwKfQRewwxzNylL1FsEICxJUIxcmo3jFD8-3caB8ClGHNQbb=w408-h272-k-no",
+            "reseña": "Es una posada sencilla pero bonita, la habitación de buen tamaño, todo súper limpio, cuentan con clima y televisión con cable. Te dan unas fichas de internet que al menos a nosotros nos funcionaron bien. Agua caliente todo el tiempo y la regadera 🚿 tiene bastante agua. Me gustó mucho la decoración de la habitación. El personal es súper amable, además está ubicado a unas calles den centro. Lo recomiendo ampliamente.",
+            "calificacion": "4.1",
+            "incluye": ["Wifi", "Desayuno de pago", "Aire acondicionado"],
+            "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/203590764.jpg?k=0e0cbb8bf38adfb1aa37e07798a21f34b449c97d93e617c088a2486e5f0e01b1&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/80817825.jpg?k=3cf7b6c27e174eaba0f18582c9b6d5609ee38d059048789a5c3b0cfb93e9710f&o=&hp=1",
+            "https://cf.bstatic.com/xdata/images/hotel/max1024x768/224698668.jpg?k=5a8f6e54b8ead557f0704e9f7d472089e802641d68c539dc062af3909f93a4d4&o=&hp=1"]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+[
+    {
+        "nombre": "Hospedaje La Cascada",
+        "direccion": "Caoba 4, Luis Gomez Zepeda, 86901 Tenosique de Pino Suárez, Tab.",
+        "telefono": "+52 934 128 4638",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM6CqcF5EqOq4Y-ga86A_KSC-eXcuxS-n0L-UEo=w408-h544-k-no",
+        "reseña": "execelente servicio",
+        "calificacion": "5",
+        "incluye": ["Wifi gratis", "Parking gratis", "Servicio de Lavanderia", "Estacionamiento gratuito", "Piscina", "Zona libre de cigarro"],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel Luz de Luna",
+        "direccion": "Z, Calle 26 #171 Luis Gómez, 86901 Tenosique de Pino Suárez, Tab.",
+        "telefono": "+52 934 134 8675",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipNcCkO8sqG3YGx32sisR-PuWlFCiM9Je2WK5NoK=w426-h240-k-no",
+        "reseña": "La ubicación es ideal ya que queda cerca de un parque, a minutos del centro e igual de la salida, tiene estacionamiento, seguridad con cámaras y el ambiente es familiar, si gustas salir a comer, a unos pasos quedan varios locales de comida. Cuenta con cable, internet y aire acondicionado. Ideal para llegar a descansar, todo limpio, el personal es amable, aceptan tarjeta y facturan",
+        "calificacion": "3.8",
+        "incluye": ["Estacionamiento gratuito", "Aire acondicionado", "Pet-friendly"],
+        "imgActividades": ["https://scontent.fmex10-2.fna.fbcdn.net/v/t39.30808-6/255467414_4592161104163244_527025814504426970_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeGgs4pXBoc42m80cGJSjRFbx0PE7puYY-LHQ8Tum5hj4sg-Rx8vsYBa8HcIu55xqX4VdHoVDXnvYo0yZvUz5AlD&_nc_ohc=vGis6b965DgAX9s-t5M&_nc_ht=scontent.fmex10-2.fna&oh=00_AfBLrwXPzopAPvZX3GAusiRtfNdQSw2rk0TWNKIAkDcH5w&oe=650EC478",
+        "https://scontent.fmex10-4.fna.fbcdn.net/v/t39.30808-6/244181607_4468718739840815_7390934543631016165_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeFlBZ-iVBY9wBx8IoV5QoF2qGeGwMTAv8eoZ4bAxMC_x_BPBUSCeCMjw1d3aUc1G9r7LtCANU3jkvTlnT600F9k&_nc_ohc=eawTJNUtqMMAX8_FqMP&_nc_ht=scontent.fmex10-4.fna&oh=00_AfB_g-Rhsu5pzP4h1UFaCHwAI4mlmEPiw9uEtYsgjIEwig&oe=650D1C59",
+        "https://scontent.fmex10-2.fna.fbcdn.net/v/t39.30808-6/244055505_4468718883174134_5344225134577981974_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeFkXtt3GbgL0aAZaICcAWW98QrBQZmzJo_xCsFBmbMmj78-PSTlPwE9dKHTUlDsIvn_qkhMFGMrssI5OZROosHK&_nc_ohc=aLRN4m_gTRUAX8JMXcC&_nc_ht=scontent.fmex10-2.fna&oh=00_AfCqHDVKBOPVAOSu0gFEQrptEgjShyrFn1Btv0iMZNVB7A&oe=650E1878"]
+    },
+    {
+        "nombre": "Casa De Huesped Del Valle",
+        "direccion": "86900, C. 19 203, Centro, Tenosique de Pino Suárez, Tab.",
+        "telefono": "+52 812 575 5181",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qJNrh_NQ3XQyfwBUgJ0IzQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.108631&pitch=0&thumbfov=100",
+        "reseña": "Accesible a un muy buen precio muy amables y centrico lo recomiendo ampliamente las habitaciones son economicas",
+        "calificacion": "3.8",
+        "incluye": [""],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel Central",
+        "direccion": "Calle 26 & Calle 19, Centro, 86900 Tenosique de Pino Suárez, Tab.",
+        "telefono": "+52 934 342 0130",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipO8XBq4XVhy9_kUMuA5FW0-JHufory57ZN2KG6A=w408-h427-k-no",
+        "reseña": "Cumple con las 3 una habitación para 2 nos costó $590 vi varios hoteles cerca del parque y la mayoría rondaba en esos precios, asi que por la ubicación vale muchísimo la pena, lo único es que las habitaciones necesitan una remodelacion son cómodas pero se ven algo anticuadas. Los pasillos y exterior del hotel bastante bonito.",
+        "calificacion": "3.9",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Estacionamiento gratuito"],
+        "imgActividades": ["http://hotelcentraltenosique.com/wp-content/uploads/2015/05/HOTEL-CENTRAL-31-1152x470.jpg",
+        "http://hotelcentraltenosique.com/wp-content/uploads/2015/05/HOTEL-CENTRAL-28-1152x470.jpg",
+        "http://hotelcentraltenosique.com/wp-content/uploads/2015/05/HOTEL-CENTRAL-15-1152x470.jpg"]
+    },
+    {
+        "nombre": "Hotel Don José",
+        "direccion": "C. 27 103, Centro, 86900 Tenosique de Pino Suárez, Tab.",
+        "telefono": "+52 934 342 0555",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipNvfDKxQgbrMrHnbjBxeYswd2tUMr8x8AZbCbie=w426-h240-k-no",
+        "reseña": "Excelente ubicacion y buen precio si vas de pasada ó diligencia",
+        "calificacion": "3.4",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito"],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel La Roca Tenosique",
+        "direccion": "C. 39 318, San Miguelito, 86902 Tenosique de Pino Suárez, Tab.",
+        "telefono": "+52 934 342 4945",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipOLALhLBX9vlpjcJbLJgxeKi-rvD10xVkpGIPI1=w426-h240-k-no",
+        "reseña": "Me pareció bien el hotel, les falta mejorar para que tengan mejor calidad y tengan mejores críticas y recomendaciones",
+        "calificacion": "4.0",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Piscina al aire libre", "Servicio de Lavanderia"],
+        "imgActividades": ["https://lh3.googleusercontent.com/p/AF1QipM-yw5Ab-eaNFgC6iB65yAmcAsba0MJAP208HTp=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipP6T0sUibZuY0jJy54z1F4nurQu4E5U6LfYpG9h=w960-h960-n-o-v1",
+        "https://lh3.googleusercontent.com/p/AF1QipMKPMPJ7sO9g1y2In7I_8-rKdhraEE2o7IPog3s=w960-h960-n-o-v1"]
+    },
+    {
+        "nombre": "Hotel Hacienda Tabasqueña",
+        "direccion": "C. 26 512, La Trinchera, 86900 Tenosique de Pino Suárez, Tab.",
+        "telefono": "+52 934 688 0447",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM2_DbP6xpL1gtWNPuGPBAtkDiSE1UZPz1Yqzja=w408-h306-k-no",
+        "reseña": "Es un excelente hotel, muy limpio y de fácil acceso, cuenta con clima, tv, WiFi, frigobar, agua fría y caliente, está ubicado en zona centro",
+        "calificacion": "3.9",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Aire acondicionado"],
+        "imgActividades": ["http://hotelhaciendatabasquena.com/wp-content/uploads/2015/05/CENTRAL-1-1000x470.jpg",
+        "http://hotelhaciendatabasquena.com/wp-content/uploads/2015/05/CENTRAL-13-1000x470.jpg",
+        "http://hotelhaciendatabasquena.com/wp-content/uploads/2015/05/CENTRAL-6-1000x470.jpg"]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Hotel San José Triunfo",
+        "direccion": "C. 27 de Febrero, Villa El Triunfo, 86950 El Triunfo, Tab.",
+        "telefono": "+52 934 346 0582",
+        "precio_habitacion_sencilla": "$300 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM0qo_XWft9QGJrDanhvoBE6tMUEr419qFGHwwg=w408-h271-k-no",
+        "reseña": "Buen hotel.. por lo que me enteré están tratando de tener buena infrestructura eléctrica, pues aún en la zona se carece de esto... Muy muy buen hotel... Yo lo recomiendo... El personal de 10...",
+        "calificacion": "4.0",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Aire acondicionado"],
+        "imgActividades": ["https://scontent.fmex10-4.fna.fbcdn.net/v/t39.30808-6/363318774_6489950187718077_419571040241442627_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeEW6MejHyC_ESIhUdxTRIRW7BoV0wCILmXsGhXTAIguZW1-ff23tHIL5eM9OkVRglkDI9eCMsCVZzIw33_T8wOV&_nc_ohc=06hrsIJqrI0AX-AHRk9&_nc_ht=scontent.fmex10-4.fna&oh=00_AfDKYmALW2DTTwAaauicQgUEWL9io_1Uu-Eors0VvJY-cg&oe=650D3CFE",
+        "https://scontent.fmex10-4.fna.fbcdn.net/v/t39.30808-6/363414130_6489950477718048_8649615559013214749_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeG3ANU7vnPphLs-1Wa2RF_qK_oxlbMJty0r-jGVswm3LbBmvl5b8IQU0o4UE2IQ_GHkAL1JpkjwfWaay7qPtGID&_nc_ohc=-dCFJqu1br0AX-_xqlO&_nc_ht=scontent.fmex10-4.fna&oh=00_AfA3XaDi5vfVIAO_cPwGsN1Gk-TAAQG8GpyW4xQ6LqNdwQ&oe=650E4FA4",
+        "https://scontent.fmex10-4.fna.fbcdn.net/v/t39.30808-6/331017598_590225389219767_4528548523113589070_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeHFqrsqI0MHPcnAd8he5qazL3pR5mA2viovelHmYDa-KkVOmz8RSDyt6SKB_P9Q1bWiau_0ao3m8nVkLLY37J2M&_nc_ohc=lGAD4ct6H7sAX9UaAgS&_nc_ht=scontent.fmex10-4.fna&oh=00_AfCewryICFGTjZsmPH0KgwSV3RdaYroPMucHK25OCppIVw&oe=650E29BE"]
+    },
+    {
+        "nombre": "Servicio de Hospedaje Lupita",
+        "direccion": "86950, Tomas Garrido Canabal LB, Villa El Triunfo, El Triunfo, Tab.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$ mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM0qo_XWft9QGJrDanhvoBE6tMUEr419qFGHwwg=w408-h271-k-no",
+        "reseña": "Es un lugar muy sencillo, pero acogedor para pasar y descansar se recomienda y por su puesto muy económico. Encerio para descansar se recomienda...Nada que ver con el San José que solo pura gente selecta quieren admitir......",
+        "calificacion": "4.3",
+        "incluye": [""],
+        "imgActividades": [""]
+    }
+]
