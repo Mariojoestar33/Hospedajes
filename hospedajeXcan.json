@@ -1,0 +1,28 @@
+[
+    {
+        "nombre": "Hotel Anahi",
+        "direccion": "77360 Ignacio Zaragoza, Q.R.",
+        "telefono": "+52 998 354 7896",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=G2fRwYua3GHSt7wUXlnNnw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=39.23525&pitch=0&thumbfov=100",
+        "reseña": "Es un lugar cómodo para pasar hasta una noche.",
+        "calificacion": "3.0",
+        "incluye": ["Restaurante"],
+        "imgActividades": ["https://pr0.nicelocal.com.mx/MTrWmL8B1v4OzvsBSzFM9g/844x1500,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2QEjwGFTibLgrI3QFgBOuTfPUgeizJa5k7SkLzf3z_wo9lRTx-8uynYj1S9jisr0oA",
+        "https://pr1.nicelocal.com.mx/M1UY86WIfyHFUKM6cJmNSw/1125x1500,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2Vv5B3IOmn1oFg4ZvME5nOniMne9qOnJNTiFFzwVXfY1K9KW-O4xmIWnInlBM4l_fw",
+        "https://pr1.nicelocal.com.mx/G_o2vOmB2E2iN0yhGRXV-g/844x1500,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2bSjA2A8rq9FmhVVF95ZJq2Kbb6a2Hz-41XApNS8tAugCGuoEPFDv7bFVYnQmk5u0A"]
+    },
+    {
+        "nombre": "Yanay, Natural Retreat & Hotel",
+        "direccion": "Quintana Roo Nuevo Durango - Coba, 77384 Nuevo Durango, Q.R.",
+        "telefono": "+52 984 166 4868",
+        "precio_habitacion_sencilla": "$1,337 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipOowy9k17Esc7dCegt8wXjdmnOotFyKpaZrJ1-G=w408-h272-k-no",
+        "reseña": "Hermoso lugar si buscas descanso y relajación enmedio de la selva maya, habitaciones super confortables, con ventilador y aire acondicionado. La señora de la cocina maravillosa y la comida que preparo deliciosa 👌🏼. Nos tocó lluvia, jugamos juegos de mesa y nos olvidamos de teléfono e internet, simplemente génial!!! Viva México!!",
+        "calificacion": "4.9",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Restaurante"],
+        "imgActividades": ["https://images.trvl-media.com/lodging/84000000/83520000/83519900/83519883/409043a0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/84000000/83520000/83519900/83519883/791355c8.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/84000000/83520000/83519900/83519883/b06fd6ac.jpg?impolicy=resizecrop&rw=1200&ra=fit"]
+    }
+]

@@ -53,5 +53,42 @@
         "calificacion": "3.8",
         "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Aire acondicionado"],
         "imgActividades": [""]
+    },
+    {
+        "nombre": "Casados Ranch ( Camping y Cabañas)'",
+        "direccion": "Justo Sierra Méndez, carretera, Chetumal - Villahermosa km 4.8, 24350 Escárcega, Camp.",
+        "telefono": "+52 982 104 2959",
+        "precio_habitacion_sencilla": "$528 mxn por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0T8KH3p8pNXHCwHK19BdFz3dMROhwKFLxzbOqUPkkVUa9fbAB2cAlof5Dngw9HAO1Efpl5OHCFrrz8aB3E1PRVL5XpwCtay3xCIBEIeESa__wOViy3Zmf5DIRKmtQU0aHeSKIbp7nnMeEQuR5pPkKqZ75oDdrsd8WNpqVlMyuOtlQmvhoWSRPJ-=w408-h544-k-no",
+        "reseña": "Un excelente lugar para convivir con la naturaleza. Un proyecto muy bonito para apoyar la naturaleza. Recomendado",
+        "calificacion": "4.4",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Pet-friendly"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/414621170.jpg?k=046bcddde6f28c5d45de58bb784be33d2d1b99811f9d2ebd23f4696783a54269&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/428556459.jpg?k=617fd9df5d82ae52404ae49eddbdf2dac979605a9fd155e09d0c91e4cad07a03&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/414621512.jpg?k=5e5bb47a9cb0485e73f28a505b506c03b5c5acbe095f9c97819d1a5738ab19ae&o=&hp=1"]
+    },
+    {
+        "nombre": "Posada 'Los Tulipanes'",
+        "direccion": "24350, Lic Carlos Salinas de Gortari, Escárcega, Camp.",
+        "telefono": "+52 982 100 6409",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipN3hMs9IV1flaBydokuu4kkZ0Juv91AmCR2YKf2=w426-h240-k-no",
+        "reseña": "Es un buen lugar para descansar ,,tiene estacionamiento y las habitaciones cuentan con aire acondicionado, TV ,y en algunas tienes wifi",
+        "calificacion": "4.0",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Pet-friendly"],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel Posada Escarcega",
+        "direccion": "C. 25 15, Colonia. Salsipuedes, 24350 Escárcega, Camp.",
+        "telefono": "+52 982 824 0079",
+        "precio_habitacion_sencilla": "$820 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMKcgRND3zKs2Psmi4vqu7fpn7YXgRjDSkcjYxL=w408-h306-k-no",
+        "reseña": "El hotel está bien ubicado, solo que las habitaciones son muy sencillas para el precio",
+        "calificacion": "3.0",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Pet-friendly", "Aire acondicionado"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/230061116.jpg?k=0f3bde4cb56b3efa54c18e38fc9eec52982d0cb69e8f73fc0dd47570dd6005cd&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/98851330.jpg?k=7e9e89916fb158f04ffb350092ed081a9f27fd0a54e32ab256948676007d97ee&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/233795692.jpg?k=df4d2e529df60e462de5ef1a950f07d3b94f94f3adb2b3a3c062cbecc978db7e&o=&hp=1"]
     }
 ]

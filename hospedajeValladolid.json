@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Hostal Kin-beh",
+        "direccion": "C. 38 194, Centro, 97780 Valladolid, Yuc.",
+        "telefono": "+52 985 107 6701",
+        "precio_habitacion_sencilla": "$501 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMmkFIyAQy_1ql5435tqSXa__Wlu80D7WOkVeT2=w491-h240-k-no",
+        "reseña": "Excelente lugar para descansar , el baño es compartido al igual que los electrodomésticos, por la zona y el costo se me hizo bien",
+        "calificacion": "4.2",
+        "incluye": ["Wifi gratis", "Estacionamiento"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/228583534.jpg?k=166aa3cf2022d89b93a15445d71040aa04e1c67e0aa6900b24ea241e280cc14b&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228584437.jpg?k=c69cafae487339800bb232eb1cb1b528efbdcf89da149bfb734ccdb4f76d8a85&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/118103883.jpg?k=596695b965dcc207149c8a0e986e28fa91ec1e2647459f9450b1370edfed20d4&o=&hp=1"]
+    },
+    {
+        "nombre": "Alena Hostal",
+        "direccion": "C. 46 entre 43 y 45, Centro, 97784 Valladolid, Yuc.",
+        "telefono": "+52 722 241 8735",
+        "precio_habitacion_sencilla": "$290 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0RHNi5nQYn_wUsjIATIybDptzbJdUO4JpOK3wsNZ7IkYjUOFzU3TfKnRoe8YosmojwGbQI8EMFid2iEoA9CesbZA_CnuhU3u89AIZoI7_CV5wwtVL4SRvtoZ05SZBT68T_fDBRWZdrbbLjxO81j0a6LkHuMIsYTp33KyvmBO1PVfXhGi31Kn73r=w408-h544-k-no",
+        "reseña": "Tiene excelente ubicación, puedes caminar a la calzada de los frailes o al centro sin problema. El lugar es muy limpio y con su staff no hicieron sentir muy cómodas! Lo recomiendo y seguro vuelvo ahí en otro viaje! 🤗 muchas gracias!",
+        "calificacion": "5.0",
+        "incluye": ["Wifi gratis", "Aire acondicionado"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/491668701.jpg?k=afd3aba35bb269200b5951a6911c1510b03bf9fa88614ef45c4a64523ab03907&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490181048.jpg?k=db30a0a1f3cdfdf2ab72eba67db50bec21fa718dc1ee9c802a56409022efba13&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/490181050.jpg?k=fa6818549e47e22eeed4c3317c27c2e57e9e5aa8732029feb884d2420b92deaf&o=&hp=1"]
+    },
+    {
+        "nombre": "Hostel La Candelaria",
+        "direccion": "C. 35 201, Candelaria, 97780 Valladolid, Yuc.",
+        "telefono": "+52 985 856 2267",
+        "precio_habitacion_sencilla": "$419 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipNpMuxSQtbDoetXKH1JKlJDU7sne_1yMUlzXHwO=w408-h271-k-no",
+        "reseña": "Mi segunda vez quedándome en un hostal, Muy precioso , buen servicio , ofrece mucha ayuda a sus huéspedes y ricos desayunos. Si tienes preguntas acerca de que hacer en Valladolid la recepcionista con mucho gusto te ayuda.",
+        "calificacion": "4.6",
+        "incluye": ["Wifi gratis", "Restaurante", "Desayunos"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/326253057.jpg?k=d5a350367fdb82a64336d631c6216a53b99db710c83dfa64275ca370ccb4fcec&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/462017497.jpg?k=435506aa4373355114263e70259db43cbf0262c358b28b22012fee774ba7e995&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/480950366.jpg?k=4c9311a08d512de83363f5cf7d6e507a760e504c06d10117dd8a7e69403138fa&o=&hp=1"]
+    },
+    {
+        "nombre": "New Friends Hostel",
+        "direccion": "C. 41 entre 48 y 50, Bacalar, 97784 Valladolid, Yuc.",
+        "telefono": "+52 985 688 1843",
+        "precio_habitacion_sencilla": "$240 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMNUs5Am2q9uS10u8Eb8ePdiE3jzpkXlfQ5TT1z=w426-h240-k-no",
+        "reseña": "Un muy bonito hostel. Sus habitaciones compartidas están muy bien, buena instalación, limpias y seguras. Su cocina y áreas comunes están bien. El desayuno que ofrecen está bastante bueno y completo. Creo que tiene muy buena relación precio calidad.",
+        "calificacion": "4.1",
+        "incluye": ["Wifi gratis", "Restaurante", "Sala de juegos"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/478497769.jpg?k=d05274df969b094a20d26de76f5eefaf7749838e3a886cd518d06414b9f0e97c&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478497729.jpg?k=1bcdab50d645b33883e50f63c443e7daca2094ec3343a1222da478d1b8c7b61e&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/478497795.jpg?k=1c32eaa9cbf54f817349cad7513312b86f4ad853879ae15519e2a5ad3ac1747c&o=&hp=1"]
+    },
+    {
+        "nombre": "Hostal Gayser",
+        "direccion": "C. 45 199J-POR 38, Sta Ana, 97782 Valladolid, Yuc.",
+        "telefono": "+52 985 125 5353",
+        "precio_habitacion_sencilla": "$421 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMsxoCP3tMat-B1R13_LjMrJ7bTZzsoEmTfw8uB=w408-h272-k-no",
+        "reseña": "Un muy bonito hostel. Sus habitaciones compartidas están muy bien, buena instalación, limpias y seguras. Su cocina y áreas comunes están bien. El desayuno que ofrecen está bastante bueno y completo. Creo que tiene muy buena relación precio calidad.",
+        "calificacion": "4.1",
+        "incluye": ["Wifi gratis", "Restaurante", "Sala de juegos"],
+        "imgActividades": ["https://h-img3.cloudbeds.com/uploads/24227/img_0650~~64dbec451445d.jpg",
+        "https://h-img1.cloudbeds.com/uploads/24227/img_0571~~64dbed86e0162.jpg",
+        "https://h-img3.cloudbeds.com/uploads/24227/img_0512_gallery~~64dbeb0a8ab12.jpg"]
+    }
+]

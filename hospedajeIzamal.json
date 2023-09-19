@@ -1,0 +1,65 @@
+[
+    {
+        "nombre": "Departamentos X'Kanlol",
+        "direccion": "C. 34 309-310, Centro, 97540 Izamal, Yuc.",
+        "telefono": "+52 988 967 2430",
+        "precio_habitacion_sencilla": "$546 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM3oMswVtM6AUfjG_SPhuPS3ZbY5gb0Q9DvPTYI=w408-h306-k-no",
+        "reseña": "Habitación amplia, muy limpia y cómoda! El personal muy amable  y hubicación perfecta para visitar el precioso pueblo de Izamal! De 10!",
+        "calificacion": "4.7",
+        "incluye": ["Estacionamiento gratuito", "Buena ubicación"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/217205189.jpg?k=f704e8a138baafdc79924c4a04cc8ed2225a1d080844f8796b515cd1532af4a3&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323501188.jpg?k=2c8c2b4c8d5f489a9fe6c8dc07ca19bb87b3bdd8026a408e2410a794a7d810b9&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/323501337.jpg?k=8f7b58406b829d75f9fb5c5649e1030db5d22055f66906ba5f685d1b2bd521fa&o=&hp=1"]
+    },
+    {
+        "nombre": "Hotel Rinconada del Convento",
+        "direccion": "C. 33 294, Centro, 97540 Izamal, Yuc.",
+        "telefono": "+52 988 954 0151",
+        "precio_habitacion_sencilla": "$888 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipOgIO06MC1cl3j9NcAcWBlXMvQ-UkPn7GeahL_5=w426-h240-k-no",
+        "reseña": "El hotel es como un auténtico oasis en la ciudad, los jardines y la piscina son preciosos y desayunar en ellos con las vistas al convento es lo mejor. El personal es majísimo, te ayudan en todo lo que necesites que eso cuenta mucho. Las habitaciones están muy limpias, tienen aire acondicionado aunque personalmente creo que los muebles están un poco anticuados. Sin lugar a duda es un sitio perfecto para dormir ai pasas por Izamal.",
+        "calificacion": "4.3",
+        "incluye": ["Estacionamiento gratuito", "Buena ubicación", "Wifi gratis", "Piscina al aire libre", "Servicio de lavanderia"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/240547138.jpg?k=14c0445c0df99bafc5a0016bb5ef01abbd76b7dc9f05c2402e9168072a6a59c9&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77008456.jpg?k=0e6421e3e9a530ba7aad938e9460b048835496dc58f79c0dece3780928ad90d2&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/356327211.jpg?k=7154b2dabf1c3295e5b3b884c78780647ae51f66519938f5865ad754be2d3bcb&o=&hp=1"]
+    },
+    {
+        "nombre": "Hotel Green River",
+        "direccion": "Calle 39 numero 342 por 38 y 40, Av. Zamná 342, Esperanza, 97540 Izamal, Yuc.",
+        "telefono": "+52 988 107 7949",
+        "precio_habitacion_sencilla": "$792 mxn por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0RwXNcDeI0iPUVStNhITgnpxhK1q919ypAFnjeXzHxgcWTwtSptGgDxGV3KZ52NPzXZ_C-9_3yW-l1FcMHf9DZvko3tbgVaSJVklG--2j6jtm2O3XpLKNZqahIk2zV9CSBNKRiYTQTO6Vgh47nuW8mRoh_ym4_t2wBD4kipTBN-WYmMpyKnGaMR=w408-h306-k-no",
+        "reseña": "Excelente hotel, paz y tranquilidad. Ambiente campirano",
+        "calificacion": "4.3",
+        "incluye": ["Estacionamiento gratuito", "Buena ubicación", "Wifi gratis", "Piscina al aire libre", "Servicio de lavanderia"],
+        "imgActividades": ["https://images.trvl-media.com/lodging/11000000/10220000/10214000/10213915/a030b252.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/11000000/10220000/10214000/10213915/ca1285f0.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/11000000/10220000/10214000/10213915/09caec5f.jpg?impolicy=resizecrop&rw=1200&ra=fit"]
+    },
+    {
+        "nombre": "Posada Zamna",
+        "direccion": "Centro, 97540 Izamal, Yuc.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipP9CejqvWhXtB5TCEwsjawf3YozaKrqAEa6NB4H=w408-h544-k-no",
+        "reseña": "buen lugar para pasar la noche, teniendo en cuenta que solo se use para dormir o bañarse. Ya Que NO cuenta con estacionamiento, puedes dejar tu auto enfrente del hotel sobre la calle. Hay un buen servicio, las instalaciones están decentes y el precio adecuado",
+        "calificacion": "4.2",
+        "incluye": ["Apto para niños"],
+        "imgActividades": ["https://posada-zamna-izamal.booked.mx/data/Photos/r838x474/7767/776757/776757973/Posada-Zamna-Izamal-Exterior.JPEG",
+        "https://posada-zamna-izamal.booked.mx/data/Photos/r838x474/7767/776757/776757202/Posada-Zamna-Izamal-Exterior.JPEG",
+        "https://posada-zamna-izamal.booked.mx/data/Photos/r838x474/7767/776757/776757013/Posada-Zamna-Izamal-Exterior.JPEG"]
+    },
+    {
+        "nombre": "Posada Flory",
+        "direccion": "C. 27 301, Centro, 97540 Izamal, Yuc.",
+        "telefono": "+52 988 954 0070",
+        "precio_habitacion_sencilla": "$200 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipOY1MU4x16hQ4dWX81y6-GVvCxgyxBu4XdoeRma=w408-h306-k-no",
+        "reseña": "El lugar está un poco descuidado pero por el precio (que es realmente muy barato) se compensa. Yo pagué una habitación para dos personas en 200 con ventilador y si quieres aire acondicionado sube 50 pesos, el cuarto tiene televisión, baño privado, toallas, y es amplio, pero si está un poco descuidado. Es una buena opción si solo quieres llegar a dormir. La dueña del lugar es muy amable.",
+        "calificacion": "4.2",
+        "incluye": [""],
+        "imgActividades": ["https://mexico.pueblosamerica.com/images2/posada-flory_hotel_B001_1024_538.webp"]
+    }
+]

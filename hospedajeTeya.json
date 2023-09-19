@@ -1,0 +1,48 @@
+[
+    {
+        "nombre": "Rancho Durango Tropico",
+        "direccion": "97374 Teya, Yuc.",
+        "telefono": "+52 615 720 8539",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipPUAyfH7CqvkyzTSkvACKcvKc-_KFqP9Y0MKYmt=w408-h306-k-no",
+        "reseña": "Bonito lugar",
+        "calificacion": "4.4",
+        "incluye": ["Wifi gratis", "Estado gratis"],
+        "imgActividades": ["https://pr0.nicelocal.com.mx/OT5Gw0swCbZuTnkvzwUVCg/2000x1500,q75/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2eyyTPLI_XptSnLlDCXxKj9bd-eXyMtmIVzFetqtPhB4vwD5xPo4KLZ9ujUlTg3dLg"]
+    },
+    {
+        "nombre": "Villa Victoria",
+        "direccion": "C. 12, Centro, 97370 Kanasín, Yuc.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipP0QRAvMHZravAi4vwKKMcuB6ifkzgkd7Uijp-S=w408-h544-k-no",
+        "reseña": "Un lugar muy agradable, buena ambientación, las instalaciones muy llamativas y alberca limpia",
+        "calificacion": "4.5",
+        "incluye": [""],
+        "imgActividades": ["https://scontent-qro1-2.xx.fbcdn.net/v/t39.30808-6/246633719_126671996404937_3000839619969383938_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_eui2=AeFIEEMQeWCScYdUuF4kkyqaflft40FsoDJ-V-3jQWygMoco0HS5i82z7fbXw50rRINffbwwrFbo4cCiUpszMVHO&_nc_ohc=Z8alluOhhw8AX8vnDR_&_nc_ht=scontent-qro1-2.xx&oh=00_AfB2CFO-qGD5Gr4OYVMkcCND5DoGelSI8xFW2jtJZT5Kpg&oe=650FA7D5",
+        "https://scontent-qro1-1.xx.fbcdn.net/v/t39.30808-6/290896637_178381974567272_3877902434477098669_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHVRelyejStIcP4i3ZQu9YgE4kiKdHVQioTiSIp0dVCKlXRcSLSQ_W8n-_BhmmiwGdIyg-sa1WM_kYhoD9Qbtd1&_nc_ohc=QsiA7XaYHVEAX_Vrtwd&_nc_ht=scontent-qro1-1.xx&oh=00_AfCXfMTINOGm9UjiG8onEAR-SrlpCNawXp5U-X1BneNVaA&oe=650F2C08"]
+    },
+    {
+        "nombre": "Hacienda San Pedro Nohpat",
+        "direccion": "C. 22 S/N, San Pedro Noh Pat, 97370 Kanasín, Yuc.",
+        "telefono": "+52 999 988 0542",
+        "precio_habitacion_sencilla": "$ 1,451 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QHOkfyG7BlrbKsl91jwCvBBWUzpgwjC8zrPYKZ5ssKRR5DK9tNAd7-VMbFo6RPALdiWQWznz-yNd19GADI-83IY6MNbYgDJEVq1rZBuaIltiGbGNMfZ9hlv7I6IM4gtRKeWkqgADTnso4kRK0UgcZvdusOSrTRKDRz8HirrsehbFSd45-10W9MGA=w408-h306-k-no",
+        "reseña": "Muy confortable las habitaciones, la hacienda  es muy bonita, la atención de 10/10",
+        "calificacion": "4.1",
+        "incluye": ["Piscina", "Estacionamiento gratuito", "Pet-friendly", "Restaurante"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/87680229.jpg?k=8e734f60bc9c2329bc4860f17d3d99a1e39ded184caa0910bb08fb51b36a5451&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/186098222.jpg?k=3e9c693ca7f038921054e03869fba1fef482dca51c8109253dfedadd046b214f&o=&hp=1"]
+    },
+    {
+        "nombre": "Motel El Arca",
+        "direccion": "Carretera Merida valladolid sin numero Kilometro 8, Centro, 97370 Kanasín, Yuc.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipNt2PKK4MzZ9ebnuFMAf36kz6KB2uyJs0EffBPw=w408-h304-k-no",
+        "reseña": "Excelente muy recomendable 😃😃😃 descanse muy bien muy acogedor se los recomiendo mucho atención sin igual muy atentos en todo exelente servicio",
+        "calificacion": "4.0",
+        "incluye": [""],
+        "imgActividades": ["https://www.motelesenmerida.com/fotos/merida/motelelarca/motelelarca.jpg"]
+    }
+]

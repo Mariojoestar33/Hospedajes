@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Hostal y temazcal Guemez Chichen Itza",
+        "direccion": "lavandería de Doña iracema, Calle 8 por 13 Alado de la, 97757 Pisté, Yuc.",
+        "telefono": "+52 985 126 9552",
+        "precio_habitacion_sencilla": "$549 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM9aGZfNWD5T5MWRalXAQqVRUhzvkVZ-U-MRhtV=w408-h306-k-no",
+        "reseña": "La amabilidad Yucateca, que nos ha acompañado estos días de visitas, presente. Con agua potable purificada para uso de huéspedes.",
+        "calificacion": "3.8",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Servicio de lavanderia"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/493004862.jpg?k=6a6f6ec0867308e0f6ce82faf4d774d00fcd73b4833d9fc92e4db0e7aa195fb4&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247907078.jpg?k=0e579780edc84e54f68e371b1d3d431f4c0ef44964eeab032fb8e7f0fccb9ca0&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/247907349.jpg?k=da2b1c4245dc2f6dd164eba43ca2761285d016ff79380b9b8e11430e3a503302&o=&hp=1"]
+    },
+    {
+        "nombre": "Hotel Doralba Inn Chichen Itzá",
+        "direccion": "Carretera Merida - Cancun Km.122 Chichén Itzá, Yuc.",
+        "telefono": "+52 985 851 0117",
+        "precio_habitacion_sencilla": "$744 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0Rl9p9sF9r9RBoSYLA4g9pjdQEnSHwEPdwQFVfBwdmrTzBhN9cuaAuasQSHNOvnvkDXpoWVYHjmC9Wu6LPAUT-HqbPlxtL6bKOtxhbD62hSUjKl8IRn4jRC0HFpG2bSMHhkv4RrnXVIIixqSCTohuWX1Zha_BG4xURnfdN0QpbhLIyeVn3KgGAaEw=w408-h306-k-no",
+        "reseña": "Esta a 5 minutos de chichen itza y enfrente de un cenote. Es una buena experiencia para pasar el rato y relajarte ya que te ofrecen transporte matutino para chichen itza y desayuno.",
+        "calificacion": "3.9",
+        "incluye": ["Wifi gratis", "Restaurante", "Piscina"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/277501359.jpg?k=77a5c8e0fa11ce03fa1f6dd3b5cf3021467c920f8d31496fc61ba6fd7d5a3708&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277473969.jpg?k=5309cf1487d27857719741fb66a260f6c01d5669065f256e3fc1b95a5448a19d&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/277456086.jpg?k=29cefb07c8fbd91859b39dc52f5f9f048a9a29e217ac77995c5b72e7efde2d9d&o=&hp=1"]
+    },
+    {
+        "nombre": "Hotel La Casa de las Lunas Chichén Itzá",
+        "direccion": "Calle 15 A S/N, 97751 Pisté, Yuc.",
+        "telefono": "+52 985 113 3752",
+        "precio_habitacion_sencilla": "$904 por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipP-evt4Jpp1W4Cy70ycpKoImvT94cVBWYIXx_pO=w408-h306-k-no",
+        "reseña": "Chiquito pero bonito, limpio y agradable. Vale cada centavo, es acojedor. De preferencia pidan habitaciones cerca de la alberca ya que tienen mejor wifi",
+        "calificacion": "4.6",
+        "incluye": ["Restaurante", "Piscina", "Ubicacion excelente"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/291652656.jpg?k=14324cee3a6f72d00381925a7ab813eb304116729f96d1616c09ae72e96e1fc0&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/291652890.jpg?k=4f2102571d1f7826e5dfe473094a65fcb4cec7164001bc9c0cd48f4be72a79d8&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/291652716.jpg?k=c88dcca16913907c654944419c91790675ced0ab34fa147720c668fc7920e431&o=&hp=1"]
+    },
+    {
+        "nombre": "Hotel Chichen Itza",
+        "direccion": "C. 15 Num 45, 97751 Pisté, Yuc.",
+        "telefono": "+52 998 887 2495",
+        "precio_habitacion_sencilla": "$1,486 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0RRm4pOCYO9Aw4o2UEjBEl5csTtvCcnWPoXqD-i9HO7Eal0lnQjCq2K_0pvvz13jNGo_a5mFnUZUVGQtyvDEKFw7RzSI6BtO-NwIQ0wPjPTNUb7gZjPC_jYM5pQFIz9OwgTbnexmS_ZFr5709qE5M-VIjmGjfQvwj2HYTu3x12IzCLvotaKKV1Ong=w408-h271-k-no",
+        "reseña": "Instalaciones cómodas y bonitas, la comida está deliciosa; la mayoría del personal es amable, a excepción de la bartender que pareciera estar ahí de manera obligada. Única queja… las chicas de limpieza me hicieron esperar 5 horas en el restaurante porque estaban 'ocupadas'.",
+        "calificacion": "4.4",
+        "incluye": ["Restaurante", "Piscina", "Ubicacion excelente", "Estacionamiento gratuito"],
+        "imgActividades": ["https://images.trvl-media.com/lodging/2000000/1510000/1509300/1509230/c4628571.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/2000000/1510000/1509300/1509230/2602913b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/2000000/1510000/1509300/1509230/cbe59fd7.jpg?impolicy=resizecrop&rw=1200&ra=fit"]
+    },
+    {
+        "nombre": "Hotel Chichen Itza",
+        "direccion": "C. 15 Num 45, 97751 Pisté, Yuc.",
+        "telefono": "+52 998 887 2495",
+        "precio_habitacion_sencilla": "$1,486 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0RRm4pOCYO9Aw4o2UEjBEl5csTtvCcnWPoXqD-i9HO7Eal0lnQjCq2K_0pvvz13jNGo_a5mFnUZUVGQtyvDEKFw7RzSI6BtO-NwIQ0wPjPTNUb7gZjPC_jYM5pQFIz9OwgTbnexmS_ZFr5709qE5M-VIjmGjfQvwj2HYTu3x12IzCLvotaKKV1Ong=w408-h271-k-no",
+        "reseña": "Instalaciones cómodas y bonitas, la comida está deliciosa; la mayoría del personal es amable, a excepción de la bartender que pareciera estar ahí de manera obligada. Única queja… las chicas de limpieza me hicieron esperar 5 horas en el restaurante porque estaban 'ocupadas'.",
+        "calificacion": "4.4",
+        "incluye": ["Restaurante", "Piscina", "Ubicacion excelente", "Estacionamiento gratuito"],
+        "imgActividades": ["https://images.trvl-media.com/lodging/2000000/1510000/1509300/1509230/c4628571.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/2000000/1510000/1509300/1509230/2602913b.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/2000000/1510000/1509300/1509230/cbe59fd7.jpg?impolicy=resizecrop&rw=1200&ra=fit"]
+    }
+]

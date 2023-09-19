@@ -1,0 +1,80 @@
+[
+    {
+        "nombre": "HOSTAL BALAGAN",
+        "direccion": "Punta Tanchacte 9 22-21, 77500 Cancún, Q.R.",
+        "telefono": "+52 998 505 1078",
+        "precio_habitacion_sencilla": "$361 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipObHQv5vdLEZBsJSUieIcZMx1LIIr-fW0xcbN4M=w408-h306-k-no",
+        "reseña": "No hace falta un hotel lujoso de 5 estrellas para pasarla super en Cancún. Este Hostal es la prueba.",
+        "calificacion": "3.8",
+        "incluye": ["Wifi gratis", "Pet-friendly", "Libre de humo"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/304307422.jpg?k=6ed81831f692934ff6f4d6f8a327245f5225e9b61a316f7dea0c6fa1ff0b49b3&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304302265.jpg?k=86be5a67c5094165a0074b3ed9c82b56c412fc9234e0f43ccbcf75e4fd2a1744&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304307103.jpg?k=ef65c5139295497aff5f8a186284c480cca66c600d229bb6cef4eb60d8f9e4bb&o=&hp=1"]
+    },
+    {
+        "nombre": "Motel Sensaciones",
+        "direccion": "Benito Juárez Sm 38, M 41, L35, Carr. Cancún - Tulum, 77507 Puerto Morelos, Q.R.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$761 mxn por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0RW-oGyzwsnOcl_bnQzkQ5N0frPktOtOGMGh4wW8-vgLFgjFgsxwe_GSWvXpaXjjd_anepHjPuzQNP6WRjDV5PIebhxsAXnJEsMwNF6xuQoLh33K4CHRUBse7cECZLVTftZIIIjPACMA-bNvEGfzlHaSh8RLT2YLorGyYkPlSL-Xy-bXOR32mm0vg=w459-h240-k-no",
+        "reseña": "Las habitaciones son cómodas y sensuales, lo único que no me encanta es que el aire acondicionado de muchas habitaciones no sirve muy bien, omitiendo eso..... está bien 👍",
+        "calificacion": "4.0",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito"],
+        "imgActividades": ["https://images.trvl-media.com/lodging/12000000/11270000/11260100/11260069/9fd264e3.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/12000000/11270000/11260100/11260069/8904f9c1.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/12000000/11270000/11260100/11260069/7d4ea542.jpg?impolicy=resizecrop&rw=1200&ra=fit"]
+    },
+    {
+        "nombre": "La Luz Hostel Cancun",
+        "direccion": "Tejón 33, 77500 Cancún, Q.R.",
+        "telefono": "+52 998 490 6116",
+        "precio_habitacion_sencilla": "$487 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipOf2ofcbTTbKgIgOCNonIJP57v_G2iAzWk_mp26=w408-h295-k-no",
+        "reseña": "La ubicación es excelente, el área es segura, la atención en el hostal es cordial aunque deben mejorar mucho en aspectos de limpieza de las habitaciones.",
+        "calificacion": "3.6",
+        "incluye": ["Wifi gratis", "Aire acondicionado"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/307692297.jpg?k=529c1fc72240de73c90962d2dbe65ce1f8aff1ef2fe3c24e15b776739be51e1c&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/307692971.jpg?k=508a0b7375c484b23134f03cbe77fa4c3c463f11af2cb2c9c4dc0070e58f80f9&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/360184672.jpg?k=9edf091437c04d1d7c52bafe9a19dfdbf5545790eb6a6e9d8b21b47ab72a0eb4&o=&hp=1"]
+    },
+    {
+        "nombre": "The boat house cancun",
+        "direccion": "77500, Centro, 77500 Cancún, Q.R.",
+        "telefono": "+52 998 120 4569",
+        "precio_habitacion_sencilla": "$576 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMUt2Ihc_JnC6JPw4e8eENDIz4JKmdpyMsr0tls=w408-h544-k-no",
+        "reseña": "Reservé 4 días y me quedé 12, excelente ubicación, hermoso y cálido lugar, excelente su anfitrión. Muy buena opción para los viajeros! Recomiendo",
+        "calificacion": "4.6",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Solo para adultos"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/478406903.jpg?k=eac1a06522c0b25ea2febd3624a32bda6365057227ee0447109ddaf7b0efc318&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/473281437.jpg?k=68b632d955cb12e7466acb80656d5cdc558a33e3efb08f91e41fdc5af2d67520&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/477892091.jpg?k=74c0a2fb5a96a951724a6eb5e1cbb80203e49a8e29c0731b9934f853ce8aa541&o=&hp=1"]
+    },
+    {
+        "nombre": "Fiesta Party Hostel - Cancun",
+        "direccion": "Alcatraces 43, SM:22 Mza:10 Lt:28, 77500 Cancún, Q.R.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$355 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipPsONAtmdfa2U_VVlLDb79mqSq4PgVf60VL4Y1H=w408-h544-k-no",
+        "reseña": "Muy buena experiencia en este lugar. Las instalaciones son sencillas pero los voluntarios hacen que este lugar sea mucho mejor, ofrecen actividades y se toman el tiempo para hacer salidas a la playa o ir de fiesta. Mención especial a Carlos que fue un genio y a Jorge que aunque coincidí menos se portó genial también. Gracias por todo chicos, volveré pronto ;)",
+        "calificacion": "4.8",
+        "incluye": ["Wifi gratis", "Aire acondicionado"],
+        "imgActividades": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/2/291277/od1yzczmgs1q7ktdout7",
+        "https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/2/291277/oxn3awdcmh06zojiqhtt",
+        "https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/2/291277/aitjrbpbb58ikz32x7mz"]
+    },
+    {
+        "nombre": "Hostel Ka'beh Cancun",
+        "direccion": "Alcatraces 45-L26, 77500 Cancún, Q.R.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$450 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMcCsUW7JiadUrnpQrkFXalXAEmNQ2yzomUcFWP=w408-h270-k-no",
+        "reseña": "Falta información en español de los tours y demás servicios que ofrecen en cada habitación. Quedé varada con 4 miembros más de mi familia por una noche y en este lugar, nos dieron alojamiento en una habitación con agua caliente, aire acondicionado, área común con nevera, microondas y agua para beber; todo excelente.",
+        "calificacion": "4.6",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Pet-friendly"],
+        "imgActividades": ["https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/3/37838/40.jpg",
+        "https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/3/37838/x3r8cbr7z8s02hob4dp2",
+        "https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/3/37838/h5s68hvz97fdnc8ludnn"]
+    }
+]

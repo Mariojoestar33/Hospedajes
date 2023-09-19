@@ -1,0 +1,50 @@
+[
+    {
+        "nombre": "Residencial Edzna",
+        "direccion": "calle10 # 224 entre51 y 49 10, entre 51 y 49, 24000 Campeche, Camp.",
+        "telefono": "+52 981 688 5098",
+        "precio_habitacion_sencilla": "$507 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QhdlEnfD2SBS0tyAzJKASu4XQP1g3PzYn4sXTHTX2FnJOuoWwx3ILMtBu94PBTbGYJiaVLa3ON8wctEweInyGsn2vFGQHHgQeoa69jOVJhAKxOQAQbWJMeax3TCRDOXXjca7ie95HvU6fqtfSQfP70W9YHm2QzMepomG0KKkhX2NehOmsXUbBr=w287-h192-n-k-no-v1-rj",
+        "reseña": "El ventilador en cuarto de literas no es suficiente para dejar de sudar por el calor y si buen precio.",
+        "calificacion": "3.6",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Pet-friendly", "Aire acondicionado"],
+        "imgActividades": ["https://lh3.googleusercontent.com/p/AF1QipPZNXWQOWaxxOPh91hop-Yb9YTAYNQFSGFCUYF_=w287-h192-n-k-no-v1-rj",
+        "https://lh3.googleusercontent.com/p/AF1QipMAM2hYS9Mc0tsAM4S5Lq-EYMftEZBUDQBbPj-4=w287-h192-n-k-no-v1-rj"]
+    },
+    {
+        "nombre": "Hotel Edzna",
+        "direccion": "calle 51 lote 10, local F, entre calle 8 y calle 10, 24000 campehe, Camp.",
+        "telefono": "+52 981 131 4527",
+        "precio_habitacion_sencilla": "$706 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QhdlEnfD2SBS0tyAzJKASu4XQP1g3PzYn4sXTHTX2FnJOuoWwx3ILMtBu94PBTbGYJiaVLa3ON8wctEweInyGsn2vFGQHHgQeoa69jOVJhAKxOQAQbWJMeax3TCRDOXXjca7ie95HvU6fqtfSQfP70W9YHm2QzMepomG0KKkhX2NehOmsXUbBr=w287-h192-n-k-no-v1-rj",
+        "reseña": "El ventilador en cuarto de literas no es suficiente para dejar de sudar por el calor y si buen precio.",
+        "calificacion": "3.6",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Pet-friendly", "Aire acondicionado"],
+        "imgActividades": ["https://lh3.googleusercontent.com/p/AF1QipOycO1klZalXvhKkYWAdPXm4HnuVC9yb74oMcSu=w287-h192-n-k-no-v1-rj",
+        "https://lh3.googleusercontent.com/p/AF1QipPatcLSxpv99pDcxmYCUJ5b02XUq6ReeBBuN702=w287-h192-n-k-no-v1-rj"]
+    },
+    {
+        "nombre": "Hotel Los Cedros de Uayamón",
+        "direccion": "Zona 1 Calle Principal mz 2, lt 4, 24530 Uayamón, Camp.",
+        "telefono": "+52 981 168 6157",
+        "precio_habitacion_sencilla": "$1,126 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QUp-b-_IBzP91ZfMyF3NalP7Z4XE3wrtn2AnIEosyt60zmYnyVSXI_L61Y9PZEa8r9UFxsJmEP4foVrOlWrZrzL5eDjCGgTciE4LEOJsbdExIPU3RSg48V7GtO_pd8z8K8Df95hlB__ZKcI6g75jtMayCVRvBnHh3APMsq5R42k5nmAoBBqSvo=w287-h192-n-k-no-v1-rj",
+        "reseña": "Muy buen lugar para estancia agradable super aislado para un buen descanso",
+        "calificacion": "4.3",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Piscina", "Restaurante"],
+        "imgActividades": ["https://lh3.googleusercontent.com/p/AF1QipMRNedYITvNpIy-HtXWV2hBaGuoaajGAKk_2EVR=w287-h192-n-k-no-v1-rj",
+        "https://lh3.googleusercontent.com/p/AF1QipM0BWyoZtuQEbLZGZpBgVEs-Stl-gIbixXb-r5v=w287-h192-n-k-no-v1-rj"]
+    },
+    {
+        "nombre": "Posada Pich",
+        "direccion": "Calle Miguel Hidalgo, S/N, entre 20 de noviembre y Revolución Centro, 24572 Pich, Camp.",
+        "telefono": "+52 981 132 1679",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh3.googleusercontent.com/p/AF1QipNNhjYqfbJ3XGrIEXmodAQWdWvNqJaVkspzogGw=w287-h192-n-k-no-v1-rj",
+        "reseña": "Bonito lugar",
+        "calificacion": "3.0",
+        "incluye": [""],
+        "imgActividades": ["https://lh3.googleusercontent.com/p/AF1QipOOyOA7h6ljpuGFtBOFE_Cs3ck9m4w9midZbpvb=w287-h192-n-k-no-v1-rj",
+        "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=4hLIXcs0je4oSfI-5l5-5A&cb_client=search.gws-prod.gps&yaw=192.7529&pitch=0&thumbfov=100&w=287&h=192&scale=2"]
+    }
+]
