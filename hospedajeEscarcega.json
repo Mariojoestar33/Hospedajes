@@ -1,5 +1,57 @@
 [
     {
-        
+        "nombre": "Casa de Huéspedes Carmelita y Cafetería Mary",
+        "direccion": "Justo Sierra Méndez m, Morelos, 24350 Escárcega, Camp.",
+        "telefono": "+52 982 824 0239",
+        "precio_habitacion_sencilla": "",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMJUCbFpqCREg7fxlCf-4ztdQeZ1pRS6wy5CVhT=w426-h240-k-no",
+        "reseña": "Un lugar atendido por su propietaria, muy limpio, económico y muy céntrico",
+        "calificacion": "3.4",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito"],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel Jasli",
+        "direccion": "Lic Carlos Salinas de Gortari, 24350 Escárcega, Camp.",
+        "telefono": "+52 982 824 1264",
+        "precio_habitacion_sencilla": "",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipP9-j5fJtswWzGlUDoRi63X7rJJW8moD-DNukpi=w408-h306-k-no",
+        "reseña": "Excelente atención... todo en perfectas condiciones e higiene!!",
+        "calificacion": "4.3",
+        "incluye": [""],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel Escarcega",
+        "direccion": "Justo Sierra Méndez 86, Revolución, 24350 Escárcega, Camp.",
+        "telefono": "+52 982 824 0187",
+        "precio_habitacion_sencilla": "",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMIFA1PHTE714t3k-i_Z-bLigBWe4lBBFA3sRua=w408-h306-k-no",
+        "reseña": "Muy cómodo con muy buena ubicación lo único que tengo que señalar es que las puertas de entrada de las habitaciones y los baños no están en óptimas condiciones.",
+        "calificacion": "3.2",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito"],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel El Deportivo",
+        "direccion": "C. 46-A, Lic Carlos Salinas de Gortari, 24350 Escárcega, Camp.",
+        "telefono": "+52 982 824 0245",
+        "precio_habitacion_sencilla": "",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipOI4_K4dfpGCFwqMLcCzUgApr9XwS_CWFgBQrOx=w408-h306-k-no",
+        "reseña": "Excelente servicio, precio súper accesible, buen trato del personal y sobró todo muy limpias las habitaciones, recomendado el hotel",
+        "calificacion": "3.7",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito"],
+        "imgActividades": [""]
+    },
+    {
+        "nombre": "Hotel 'Maria Isabel'",
+        "direccion": "C. 30-A 17, Revolución, 24350 Escárcega, Camp.",
+        "telefono": "+52 982 824 0062",
+        "precio_habitacion_sencilla": "",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipMxpS_ki37gbptUDTAvM4II8-Ir0U3u_0iFksyQ=w408-h306-k-no",
+        "reseña": "Excelente ubicación, limpieza, cuenta con clima, tv, ventilador, wifi y desayuno completo de cortesía: café refil, pan, fruta y huevo con frijoles refritos, además en el lobby hay una cafetera para tomar el café que uno quiera, a un excelente precio. Con gusto vuelvo a ese lugar.",
+        "calificacion": "3.8",
+        "incluye": ["Wifi gratis", "Estacionamiento gratuito", "Aire acondicionado"],
+        "imgActividades": [""]
     }
 ]
