@@ -1,5 +1,67 @@
 [
     {
-        
+        "nombre": "Casa Malix Puerto Morelos",
+        "direccion": "C. Saraguato 45, Smz 18, 77580 Puerto Morelos, Q.R.",
+        "telefono": "",
+        "precio_habitacion_sencilla": "$757 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipP8WqyU1MoFVHt6psGBDDnKKLdR3-juB7CdMaR-=w408-h306-k-no",
+        "reseña": "Excelente relación precio calidad. Los apartamentos son bellísimas y con todo lo necesario,  cerca del centro de Puerto Morelos,de supermercados , farmacias y de los transportes hacia otras playas. Super recomendado.",
+        "calificacion": "4.5",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Zona de fumadores"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/210198783.jpg?k=efbad1f9eead90ff0c1ba33619a3c85debce8c21b4927093cb25373b73e5911b&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214333120.jpg?k=f4ab78e1334c901d79753e47404d9ec4a0b16ddfef738888a11ce8a3c609c395&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214333221.jpg?k=5723c7c51325fd772fdf73bb157445c791ef00b1c6c8aafb9cc6f1c24bed9574&o=&hp=1"]
+    },
+    {
+        "nombre": "Cuca Macuca Hostal",
+        "direccion": "Av. niños héroes Smz 1 Mz 8 Lt 7, 77580 Puerto Morelos, Q.R.",
+        "telefono": "+52 998 505 9698",
+        "precio_habitacion_sencilla": "$847 mxn por noche",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM5Bt5VjFtiFyRHL8PjmtG2muiyPTqy4ahTwU0=w408-h272-k-no",
+        "reseña": "Todas las chicas que trabajan el hostal fueron muy amables, el hostal estuvo siempre muy limpio, nos ayudaron a reservar un tour a los arrecifes, definitivamente lo recomiendo, además la ubicación excelente!",
+        "calificacion": "4.3",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Zona de fumadores"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1024x768/291385511.jpg?k=2dadccb2d0200ae2d3aefc4942d55477c724a8ba0119f4bc06816dc176d3c276&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/333452675.jpg?k=e73dc7f6ea853d38b2171cf29b114cd6b3c6c740827c3c72b74a60513e7e8bf9&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425979037.jpg?k=61071c85e7c86ba1997dfef91ca894b94067e425f8045bd4165449eb92218d07&o=&hp=1"]
+    },
+    {
+        "nombre": "La Pausa",
+        "direccion": "Avenida Javier Rojo Gomez sm1 m5, l29, 77580 Puerto Morelos, Q.R.",
+        "telefono": "+52 984 113 1859",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipPL72apKZEbJRb0iows_4gmf662uUFnsaApWC2N=w408-h272-k-no",
+        "reseña": "Básicamente te sentís como en casa, los anfitriones son personas muy agradables, que están para brindarte atención cuando lo necesites, así como información turística. La relación calidad precio es muy buena, la ubicación igual, a 200m de la playa. Si buscas un ambiente informal, donde tengas todos los servicios básicos, sin lujos pero con higiene, interactuar con viajeros de todo el mundo, y sentirte como en casa, La Pausa es el lugar.",
+        "calificacion": "4.9",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Zona de fumadores"],
+        "imgActividades": ["https://la-pausa-by-elevate-rooms.hotels-quintanaroo.com/data/Pictures/r1920x1080/8788/878851/878851706/picture-puerto-morelos-la-pausa-by-elevate-rooms-1.JPEG",
+        "https://la-pausa-by-elevate-rooms.hotels-quintanaroo.com/data/Pictures/r1920x1080/9521/952107/952107700/picture-puerto-morelos-la-pausa-by-elevate-rooms-4.JPEG",
+        "https://la-pausa-by-elevate-rooms.hotels-quintanaroo.com/data/Pictures/r1920x1080/9191/919160/919160071/picture-puerto-morelos-la-pausa-by-elevate-rooms-5.JPEG"]
+    },
+    {
+        "nombre": "Hostel Humanity",
+        "direccion": "Chechen 308, Joaquín Zetina Gasca, 77580 Joaquín Zetina Gasca, Q.R.",
+        "telefono": "+52 998 330 6670",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM8rSyRoqvsb4sZtsdS5sBo0IT8LRXbDJLy7nUW=w408-h544-k-no",
+        "reseña": "Lugar ideal para descansar en paz. Tiene unas áreas comunes increíbles, con su piscina, hamacas y sofás. La limpieza de las habitaciones está muy bien, no así la cocina y nevera que a veces deja un poco que desear (pero esto más bien es tema de los huéspedes con los que compartas). Está bien localizada. Es ideal si quieres tranquilidad. Sofía es una persona muy amable y atenta, a pesar de no estar en el hostel siempre está preocupada porque todo vaya bien.",
+        "calificacion": "4.1",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Zona de fumadores"],
+        "imgActividades": ["https://hostelhumanity.com/wp-content/uploads/2020/11/87382020-300x300.jpg",
+        "https://hostelhumanity.com/wp-content/uploads/2020/11/87382016-e1606490620532-300x300.jpg",
+        "https://hostelhumanity.com/wp-content/uploads/2020/11/89492275-300x300.jpg"]
+    },
+    {
+        "nombre": "Glamping Casa Costal - Puerto Morelos",
+        "direccion": "C. Luis Donaldo Colosio, Zona Urbana, 77580 Puerto Morelos, Q.R.",
+        "telefono": "+52 331 098 3830",
+        "precio_habitacion_sencilla": "$",
+        "URLimagen": "https://lh5.googleusercontent.com/p/AF1QipM8rSyRoqvsb4sZtsdS5sBo0IT8LRXbDJLy7nUW=w408-h544-k-no",
+        "reseña": "Lugar ideal para descansar en paz. Tiene unas áreas comunes increíbles, con su piscina, hamacas y sofás. La limpieza de las habitaciones está muy bien, no así la cocina y nevera que a veces deja un poco que desear (pero esto más bien es tema de los huéspedes con los que compartas). Está bien localizada. Es ideal si quieres tranquilidad. Sofía es una persona muy amable y atenta, a pesar de no estar en el hostel siempre está preocupada porque todo vaya bien.",
+        "calificacion": "4.1",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Piscina"],
+        "imgActividades": ["https://cf.bstatic.com/xdata/images/hotel/max1280x900/462211973.jpg?k=85c9b700a178d99e5655f6a2c212480eb5c277acff6e4fa53033cb741793084f&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/405147148.jpg?k=bd23c77799686edf8cc6521bd65424c4516b4c8bb821600f19768b8a2fc71184&o=&hp=1",
+        "https://cf.bstatic.com/xdata/images/hotel/max1280x900/405147168.jpg?k=73aaa8883c0aacca93f0ed2c4255309f52a13cbd90b17a0820ba3a16118e353d&o=&hp=1"]
     }
 ]

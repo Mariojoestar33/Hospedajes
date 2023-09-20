@@ -1,0 +1,15 @@
+[
+    {
+        "nombre": "La Pasión Hotel Boutique",
+        "direccion": "C. 10 Nte. s/n, Centro, 77710 Playa del Carmen, Q.R.",
+        "telefono": "+52 984 879 3005",
+        "precio_habitacion_sencilla": "$819 por noche",
+        "URLimagen": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0QafiuS_1hApxMeMEZep3ydcm4F5A5RpGcL2qsK7rsTk0I_bY6CPaQMkY3r7iPNKutn_F7Cr0sXKDiFw62wkaj7yBoz86GhCHGkU_mfvHkTMyQufEE-vFhTqBoS1qCUZ_tT_8u00CUh9Fh1caWlncgrdys0_1pSevd6Sdu0XR7ddH_cb9oeFqsMfA=w408-h269-k-no",
+        "reseña": "Estuve 3 días en el hotel, es una habitación que está bien pero me robaron dolares de la caja fuerte,  no te roban la billetera completa! son vivos solo te sacan parte de lo que tenes.  Su respuesta es que la llave de la caja solo la tiene el gerente, entonces seria que ellos mismos te roban. Tenia todo anotado y separado en un sobre, confíe en este hotel y me robaron! No vayan! controlen cuanta plata tienen que después les va a faltar como me paso.",
+        "calificacion": "4.6",
+        "incluye": ["Wifi gratis", "Aire acondicionado", "Pet-friendly", "Apto para niños", "Piscina"],
+        "imgActividades": ["https://images.trvl-media.com/lodging/6000000/5160000/5151400/5151337/cecdbc97.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/6000000/5160000/5151400/5151337/04767589.jpg?impolicy=resizecrop&rw=1200&ra=fit",
+        "https://images.trvl-media.com/lodging/6000000/5160000/5151400/5151337/71f5425a.jpg?impolicy=resizecrop&rw=1200&ra=fit"]
+    }
+]
